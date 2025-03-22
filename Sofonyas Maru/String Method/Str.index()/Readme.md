@@ -1,1 +1,1 @@
-index(): used in python in Finding positions of specific markers in a structured text.
+Works like find(), but raises Value Error if not found.
