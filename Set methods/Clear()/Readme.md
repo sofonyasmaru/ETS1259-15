@@ -1,0 +1,1 @@
+clear()- remove all item
